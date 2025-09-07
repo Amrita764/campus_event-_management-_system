@@ -1,5 +1,5 @@
 # campus_event_management_system
-##Overview of Project
+## Overview of Project
 I have bulit campus_Event_Management_System featuring Admin portal where admin user can create event and manage events and student portal where students can browse events,register in  their interesting domin and can see history of events.
 
 ## Feature Explained
@@ -23,6 +23,7 @@ Routing:React Router DOM
 
 # Design Decisions 
 I chose to use React's built-in useState for simplicity and prioritised mobile-first design since students primarily use mobile devices.color system I used HSL-values in index.css.
+
 ## Limititation and future Improvement:
 This is a Frontend - only implementation 
 Planned Features:
@@ -30,3 +31,13 @@ Planned Features:
 2.Authetical System
 3.Payment Integration 
 4.QR code check-in system
+
+# Reports
+Top Active Students 
+Student Participation 
+Category-wise event analysis and trends
+Attendence percentage 
+Popularity of event
+# Personal Perspective view 
+I enjoyed while building this application and felt professional.
+
